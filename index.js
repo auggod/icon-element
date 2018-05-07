@@ -1,4 +1,4 @@
-var html = require('bel')
+var html = require('nanohtml')
 var assert = require('assert')
 
 module.exports = iconElement

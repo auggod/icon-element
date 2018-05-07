@@ -10,6 +10,6 @@
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "bel": "^5.1.5"
+    "nanohtml": "^1.2.4"
   }
 }
